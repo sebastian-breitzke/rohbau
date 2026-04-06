@@ -42,7 +42,7 @@ The components exist. Nobody assembled them.
 | Auth | WorkOS (free to 1M MAU) | Ory Kratos (self-hosted, €0) |
 | Hosting | Cloudflare Pages (free) | Hetzner (€4/mo) |
 | Database | Cloudflare D1 (free) | PostgreSQL (self-hosted) |
-| Payments | Beta free, Mollie planned | Mollie (NL) |
+| Payments | Mollie (NL) | Mollie (NL) |
 | Email | — | Postal (self-hosted) |
 | AI | Anthropic (US) | Anthropic (US) |
 
